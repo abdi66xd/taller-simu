@@ -2,7 +2,7 @@
 
     require './helpers/conexion.php';
 
-    define("RAIZ", "http://localhost:5200/vianca");
+    define("RAIZ", "http://");
 
     // $db_config = [
     //     "host" => "database-mdb",
