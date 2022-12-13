@@ -7,7 +7,7 @@
 
     json_clear();
 
-    // echo json_encode(db_questions_get($_CONEXION));
+    //echo json_encode(db_questions_get($_CONEXION));
 
 
     // deleteEncuesta();
