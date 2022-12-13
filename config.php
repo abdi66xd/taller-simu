@@ -2,7 +2,7 @@
 
     require './helpers/conexion.php';
 
-    define("RAIZ", "http://");
+    define("RAIZ", "https://taller-simu-production.up.railway.app");
 
     // $db_config = [
     //     "host" => "database-mdb",
@@ -13,10 +13,10 @@
     // ];
 
     $db_config = [
-        "host" => "containers-us-west-146.railway.app",
-        "port" => "5885",
+        "host" => "containers-us-west-131.railway.app",
+        "port" => "5782",
         "user" => "root",
-        "pass" => "agDyTKNhBsM3OhraAUxA",
+        "pass" => "NUqSbD95jcWlnvHi9GQ6",
         "name" => "railway",
     ];
     
